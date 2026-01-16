@@ -1,9 +1,9 @@
 # Maintainer: Kuan-Yen Chou <kuanyenchou (at) gmail (dot) com>
 # Contributor: gilbus <aur(AT)tinkershell.eu>
 
-_wlr_version=0.18
+_wlr_version=0.19
 pkgname=cage-git
-pkgver=0.1.5.r53.g34de3f7
+pkgver=0.2.1.r6.gdcd64ae
 pkgrel=1
 pkgdesc="Kiosk compositor for Wayland"
 depends=(glibc wayland "libwlroots-${_wlr_version}.so" libxkbcommon)
